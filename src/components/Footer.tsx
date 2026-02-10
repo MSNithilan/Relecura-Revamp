@@ -40,7 +40,8 @@ export const Footer = () => {
               {/* <img src={logo1} alt="Relecura logo" className="h-10 w-10 object-contain" /> */}
               <span className="text-3xl font-bold">
                 <span className="text-foreground">Rele</span>
-                <span className="text-[#4AB8B2] dark:text-[#8BE2DE]">cura</span>
+                {/* <span className="text-[#4AB8B2] dark:text-[#8BE2DE]">cura</span> */}
+                <span className="text-[#dc3939] dark:text-[#ff3d3d]">cura</span>
               </span>
             </div>
 

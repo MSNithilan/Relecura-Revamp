@@ -87,7 +87,8 @@ export const Navbar = () => {
             <div className="flex flex-col leading-tight">
               <span className="text-3xl font-bold">
                 <span className="text-foreground">Rele</span>
-                <span className="text-[#4AB8B2] dark:text-[#8BE2DE]">cura</span>
+                {/* <span className="text-[#4AB8B2] dark:text-[#8BE2DE]">cura</span> */}
+                <span className="text-[#dc3939] dark:text-[#ff3d3d]">cura</span>
               </span>
               <span className="text-[11px] tracking-wide text-muted-foreground">
                 AI FOR INNOVATION INTELLIGENCE
