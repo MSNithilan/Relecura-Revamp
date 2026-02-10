@@ -79,8 +79,8 @@ export const Navbar = () => {
             onClick={() => setMobileMenuOpen(false)}
           >
             <img
-              src={logo1}
-              //src={logo2}
+              //src={logo1}
+              src={logo2}
               alt="Relecura logo"
               className="h-12 w-12 mt-1 object-contain"
             />

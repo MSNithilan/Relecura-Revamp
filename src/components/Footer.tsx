@@ -36,7 +36,7 @@ export const Footer = () => {
           {/* LEFT — Brand + Social + Call */}
           <div>
             <div className="flex items-center gap-3 mb-5">
-              <img src={logo1} alt="Relecura logo" className="h-10 w-10 object-contain" />
+              <img src={logo2} alt="Relecura logo" className="h-10 w-10 object-contain" />
               {/* <img src={logo1} alt="Relecura logo" className="h-10 w-10 object-contain" /> */}
               <span className="text-3xl font-bold">
                 <span className="text-foreground">Rele</span>
